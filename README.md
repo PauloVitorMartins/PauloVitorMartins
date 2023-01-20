@@ -7,7 +7,7 @@
     <a href = "mailto: work.luigi.fonseca@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
+    <a href = "https://www.linkedin.com/in/paulo-vitor-martins-silva-dev/">
       <img width="25" src="linkedin.svg">
     </a>
     <a href = "https://www.instagram.com/pvitor_martins/">
