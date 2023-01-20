@@ -13,13 +13,13 @@
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: pm885144@gmail.com">
+    <a href = "mailto: pm885144@gmail.com" target="_blank">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "https://www.linkedin.com/in/paulo-vitor-martins-silva-dev/">
+    <a href = "https://www.linkedin.com/in/paulo-vitor-martins-silva-dev/" target="_blank">
       <img width="25" src="linkedin.svg">
     </a>
-    <a href = "https://www.instagram.com/pvitor_martins/">
+    <a href = "https://www.instagram.com/pvitor_martins/" target="_blank">
       <img width="25" src="instagram.png">
     </a>
 
