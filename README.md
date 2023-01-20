@@ -4,7 +4,7 @@
 ![PauloVitorMartins GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloVitorMartins&show_icons=true&theme=dracula)
 ![Snake animation](https://github.com/PauloVitorMartins/PauloVitorMartins/blob/output/github-contribution-grid-snake.svg)
 <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: work.luigi.fonseca@gmail.com">
+    <a href = "mailto: pm885144@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/paulo-vitor-martins-silva-dev/">
