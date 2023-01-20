@@ -10,6 +10,6 @@
     <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
       <img width="25" src="linkedin.svg">
     </a>
-    <a href = "https://www.instagram.com/devparadev/](https://www.instagram.com/pvitor_martins/">
+    <a href = "https://www.instagram.com/pvitor_martins/">
       <img width="25" src="instagram.png">
     </a>
