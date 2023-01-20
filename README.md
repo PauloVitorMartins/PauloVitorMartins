@@ -1,7 +1,10 @@
 ### Hi there, Paulo Vitor na Área 👋
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloVitorMartins&layout=compact&theme=dracula)](https://github.com/PauloVitorMartins/github-readme-stats)
+ <div align=center>
+ 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloVitorMartins&layout=compact&theme=dracula)](https://github.com/PauloVitorMartins/github-readme-stats)
 ![PauloVitorMartins GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloVitorMartins&show_icons=true&theme=dracula)
+<div/>
 ![Snake animation](https://github.com/PauloVitorMartins/PauloVitorMartins/blob/output/github-contribution-grid-snake.svg)
 <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: pm885144@gmail.com">
@@ -13,3 +16,4 @@
     <a href = "https://www.instagram.com/pvitor_martins/">
       <img width="25" src="instagram.png">
     </a>
+
