@@ -6,7 +6,7 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloVitorMartins&layout=compact&theme=dracula)](https://github.com/PauloVitorMartins/github-readme-stats)
 ![PauloVitorMartins GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloVitorMartins&show_icons=true&theme=dracula)
 <div/>
- <h1 align="center">Melhores Tecnologias</h1>
+ <h1 align="center">Principais Tecnologias</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
