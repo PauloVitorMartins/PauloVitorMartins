@@ -1,4 +1,4 @@
-### Hi there, Paulo Vitor na Área 👋
+### Hi there, Paulo Vitor na área 👋
 
 
  <div align=center>
