@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, Paulo Vitor na área 👋</h1>
 <div display='flex'>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulovitormartins&show_icons=true&theme=dark&locale=en&layout=compact" alt="paulovitormartins" />
-<img align="center" width=450 src="https://github-readme-streak-stats.herokuapp.com/?user=paulovitormartins&theme=dark" alt="paulovitormartins" />
+<img align="center" width=430 src="https://github-readme-streak-stats.herokuapp.com/?user=paulovitormartins&theme=dark" alt="paulovitormartins" />
 </div>
 
 <div align="center"> <h3 align="center">Front-End</h3> 
