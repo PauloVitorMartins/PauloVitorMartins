@@ -178,9 +178,6 @@
 <!-- ===================================================================== -->
 <!--         PAINEL INTERATIVO EXPANSÍVEL (ESTILO WEB ACCORDION)           -->
 <!-- ===================================================================== -->
-<details>
-  <summary align="center"><b>🔽 [CLICK TO EXPAND] Detailed System Architecture &amp; Environment</b></summary>
-  <br/>
   <table width="100%" align="center">
     <tr>
       <td width="33%" valign="top">
@@ -210,7 +207,6 @@
       </td>
     </tr>
   </table>
-</details>
 
 <br/>
 
