@@ -173,23 +173,7 @@
 <!-- ===================================================================== -->
 <!--       BENTO GRID ROW 3: GRÁFICO DE ONDA DE ATIVIDADE & HEATMAP        -->
 <!-- ===================================================================== -->
-<h2 align="center">📈 <code>~/activity/contribution_timeline.log</code></h2>
 
-<table width="100%" align="center">
-  <tr>
-    <td align="center">
-      <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=PauloVitorMartins&bg_color=0d1117&color=8b949e&line=00d8ff&point=ffffff&area=true&area_color=00d8ff&hide_border=true&custom_title=Real-Time%20Contribution%20Activity%20Graph" alt="Contribution Graph" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <br/>
-      <p align="center"><b>🟩 365-Day Contribution Matrix (Cyan Telemetry)</b></p>
-      <img width="96%" src="https://ghchart.rshah.org/00d8ff/PauloVitorMartins" alt="365 Day Heatmap" />
-      <br/><br/>
-    </td>
-  </tr>
-</table>
 
 <!-- ===================================================================== -->
 <!--         PAINEL INTERATIVO EXPANSÍVEL (ESTILO WEB ACCORDION)           -->
