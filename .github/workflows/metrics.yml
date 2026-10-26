@@ -1,0 +1,22 @@
+name: GitHub Metrics
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+  push: {branches: ["main", "master"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Sao_Paulo
+          plugin_lines: yes               # Mostra Total de Insertions (++) e Deletions (--)
+          plugin_followup: yes            # Status de Issues e PRs
+          plugin_activity: yes            # Mostra os últimos commits e repositórios trabalhados!
+          plugin_activity_limit: 4
+          plugin_activity_days: 14
