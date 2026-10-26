@@ -57,67 +57,55 @@
         <kbd>Arch Base</kbd> &nbsp; <kbd>Hyprland</kbd> &nbsp; <kbd>Low-Level</kbd> &nbsp; <kbd>OOP</kbd> &nbsp; <kbd>Data Structures</kbd>
       </p>
     </td>
-    <!-- JANELA 2: ARSENAL TECNOLÓGICO (OS 6 ÍCONES SOLICITADOS) -->
+    <!-- JANELA 2: ARSENAL TECNOLÓGICO -->
     <td width="50%" valign="top">
       <h3 align="center">⚡ <code>paulo@cachyos : ~/core-stack</code></h3>
       <table width="100%">
         <tr>
-          <th width="20%" align="center">Icon</th>
-          <th width="35%" align="left">Technology</th>
-          <th width="45%" align="left">Domain &amp; Focus</th>
+          <th width="15%" align="center">Icon</th>
+          <th width="30%" align="left">Technology</th>
+          <th width="55%" align="left">Domain &amp; Focus</th>
         </tr>
         <tr>
           <td align="center">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="C++" />
           </td>
-          <td>
-            <img src="https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C&labelColor=161b22" alt="C++" />
-          </td>
+          <td><b>C++</b></td>
           <td><code>OOP • Pointers • TADs</code></td>
         </tr>
         <tr>
           <td align="center">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" />
           </td>
-          <td>
-            <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=161b22" alt="JavaScript" />
-          </td>
+          <td><b>JavaScript</b></td>
           <td><code>ES6+ • Logic • Web Apps</code></td>
         </tr>
         <tr>
           <td align="center">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" width="36" height="36" alt="SQL" />
           </td>
-          <td>
-            <img src="https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=336791&labelColor=161b22" alt="SQL" />
-          </td>
+          <td><b>SQL</b></td>
           <td><code>Relational Modeling • Queries</code></td>
         </tr>
         <tr>
           <td align="center">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" />
           </td>
-          <td>
-            <img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624&labelColor=161b22" alt="Linux" />
-          </td>
+          <td><b>Linux</b></td>
           <td><code>Bash / Fish • CLI • Kernel</code></td>
         </tr>
         <tr>
           <td align="center">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="36" height="36" alt="Arch Linux" />
           </td>
-          <td>
-            <img src="https://img.shields.io/badge/Arch_Linux-0d1117?style=flat-square&logo=archlinux&logoColor=1793D1&labelColor=161b22" alt="Arch Linux" />
-          </td>
+          <td><b>Arch Linux</b></td>
           <td><code>Pacman • Rolling Release</code></td>
         </tr>
         <tr>
           <td align="center">
             <img src="https://cdn.simpleicons.org/cachyos/00d8ff" width="36" height="36" alt="CachyOS" />
           </td>
-          <td>
-            <img src="https://img.shields.io/badge/CachyOS-0d1117?style=flat-square&logo=cachyos&logoColor=00d8ff&labelColor=161b22" alt="CachyOS" />
-          </td>
+          <td><b>CachyOS</b></td>
           <td><code>x86-64-v3 • BORE Scheduler</code></td>
         </tr>
       </table>
@@ -171,7 +159,7 @@
 <br/>
 
 <!-- ===================================================================== -->
-<!--       BENTO GRID ROW 3: GRÁFICO DE ONDA DE ATIVIDADE & HEATMAP        -->
+<!--        BENTO GRID ROW 3: GRÁFICO DE ONDA DE ATIVIDADE & HEATMAP       -->
 <!-- ===================================================================== -->
 
 
