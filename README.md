@@ -98,9 +98,9 @@
     <th width="33%" align="center">📈 Language Distribution (%)</th>
   </tr>
   <tr>
-    <td width="33%" align="center" valign="middle"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=PauloVitorMartins&show_icons=true&bg_color=0d1117&title_color=00d8ff&text_color=c9d1d9&icon_color=00d8ff&ring_color=00d8ff&hide_border=true&include_all_commits=true" alt="GitHub Stats" /></td>
+    <td width="33%" align="center" valign="middle"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=PauloVitorMartins&show_icons=true&bg_color=0d1117&title_color=00d8ff&text_color=c9d1d9&icon_color=00d8ff&ring_color=00d8ff&hide_border=true&include_all_commits=true&card_width=450" alt="GitHub Stats" /></td>
     <td width="34%" align="center" valign="middle"><img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=PauloVitorMartins&background=0d1117&hide_border=true&ring=00d8ff&fire=00d8ff&currStreakLabel=00d8ff&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" /></td>
-    <td width="33%" align="center" valign="middle"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloVitorMartins&layout=compact&langs_count=6&bg_color=0d1117&title_color=00d8ff&text_color=c9d1d9&hide_border=true" alt="Top Languages with Percentages" /></td>
+    <td width="33%" align="center" valign="middle"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloVitorMartins&langs_count=6&bg_color=0d1117&title_color=00d8ff&text_color=c9d1d9&hide_border=true&hide_progress=true&card_width=450" alt="Top Languages with Percentages" /></td>
   </tr>
 </table>
 
