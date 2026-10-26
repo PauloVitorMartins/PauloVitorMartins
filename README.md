@@ -3,12 +3,10 @@
 <!-- ===================================================================== -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2540,100:00d8ff&height=190&section=header&text=PAULO%20VITOR%20SILVA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20%40%20UFV%20%E2%80%A2%20Systems%20%26%20Software%20Development&descAlignY=58&descSize=16" alt="Header Banner" />
-
   <!-- TERMINAL TYPING ANIMATION -->
   <a href="https://github.com/PauloVitorMartins">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=00D8FF&center=true&vCenter=true&width=800&lines=%3E+paulo%40cachyos%3A~%24+./telemetry_dashboard.sh+--live;%3E+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+UFV+%7C+C%2B%2B+%E2%80%A2+JavaScript+%E2%80%A2+SQL;%3E+Environment%3A+Arch+Linux+%2F+CachyOS+%7C+WM%3A+Hyprland+%7C+Shell%3A+fish;%3E+Focus%3A+Object-Oriented+Programming%2C+Data+Structures+%26+Systems" alt="Terminal Typing" />
   </a>
-
   <br/><br/>
   <!-- UNIFIED SOCIAL & LIVE METRICS BAR -->
   <p align="center">
@@ -43,7 +41,7 @@
     <th width="54%" align="center">⚡ <code>~/system/core_stack.conf</code></th>
   </tr>
   <tr>
-    <!-- COLUNA ESQUERDA: AMBIENTE E ARQUITETURA (SEM DADOS FALSOS) -->
+    <!-- COLUNA ESQUERDA: AMBIENTE E ARQUITETURA -->
     <td width="46%" valign="top">
       <pre>
 <b>paulo@cachyos</b>
@@ -64,7 +62,6 @@
         <kbd>Linux CLI</kbd>
       </p>
     </td>
-
     <!-- COLUNA DIREITA: OS 6 ÍCONES ÚNICOS COM HIERARQUIA LIMPA -->
     <td width="54%" valign="top">
       <table width="100%">
@@ -122,7 +119,7 @@
 <!-- ===================================================================== -->
 <h3 align="center">📊 <code>~/telemetry/github_metrics --live</code></h3>
 
-<!-- LINHA 1: ESTATÍSTICAS GERAIS, STREAK E LINGUAGENS COM % EXATO -->
+<!-- LINHA 1: ESTATÍSTICAS GERAIS, STREAK E LINGUAGENS -->
 <table width="100%" align="center">
   <tr>
     <th width="33%" align="center">⚡ General Telemetry</th>
@@ -130,24 +127,22 @@
     <th width="33%" align="center">📈 Language Distribution (%)</th>
   </tr>
   <tr>
-    <!-- CARD 1: ESTATÍSTICAS GERAIS (PALETA CIANO #00D8FF) -->
+    <!-- CARD 1: ESTATÍSTICAS GERAIS -->
     <td width="33%" align="center" valign="middle">
-      <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PauloVitorMartins&show_icons=true&bg_color=0d1117&title_color=00d8ff&text_color=c9d1d9&icon_color=00d8ff&ring_color=00d8ff&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=PauloVitorMartins&show_icons=true&bg_color=0d1117&title_color=00d8ff&text_color=c9d1d9&icon_color=00d8ff&ring_color=00d8ff&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
     </td>
-
-    <!-- CARD 2: STREAK STATS (PALETA CIANO #00D8FF) -->
+    <!-- CARD 2: STREAK STATS -->
     <td width="34%" align="center" valign="middle">
       <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=PauloVitorMartins&theme=dark&background=0d1117&hide_border=true&ring=00d8ff&fire=00d8ff&currStreakLabel=00d8ff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
     </td>
-
-    <!-- CARD 3: LINGUAGENS MAIS USADAS COM PORCENTAGEM (%) -->
+    <!-- CARD 3: LINGUAGENS -->
     <td width="33%" align="center" valign="middle">
-      <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PauloVitorMartins&layout=compact&langs_count=6&bg_color=0d1117&title_color=00d8ff&text_color=c9d1d9&hide_border=true" alt="Top Languages with Percentages" />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloVitorMartins&layout=compact&langs_count=6&bg_color=0d1117&title_color=00d8ff&text_color=c9d1d9&hide_border=true" alt="Top Languages with Percentages" />
     </td>
   </tr>
 </table>
 
-<!-- LINHA 2: CURVA ANUAL DE CONTRIBUIÇÕES E FREQUÊNCIA DE HORÁRIO (TEMA CIANO/TEAL) -->
+<!-- LINHA 2: CURVA ANUAL E FREQUÊNCIA DE HORÁRIO -->
 <table width="100%" align="center">
   <tr>
     <th width="62%" align="center">🌊 Annual Contribution Curve (Live Activity)</th>
