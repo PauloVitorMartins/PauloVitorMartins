@@ -2,7 +2,7 @@
 <!--                    TIER 1: HERO BANNER & STATUS BAR                   -->
 <!-- ===================================================================== -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2540,100:00d8ff&height=190&section=header&text=PAULO%20VITOR%20SILVA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20%40%20UFV%20%E2%80%A2%20Systems%20%26%20Software%20Development&descAlignY=58&descSize=16" alt="Header Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2540,100:00d8ff&height=190&section=header&text=PAULO%20VITOR%20SILVA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20%40%20UFV%20%E2%80%A2%20Systems%20and%20Software%20Development&descAlignY=58&descSize=16" alt="Header Banner" />
   <!-- TERMINAL TYPING ANIMATION -->
   <a href="https://github.com/PauloVitorMartins">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=00D8FF&center=true&vCenter=true&width=800&lines=%3E+paulo%40cachyos%3A~%24+./telemetry_dashboard.sh+--live;%3E+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+UFV+%7C+C%2B%2B+%E2%80%A2+JavaScript+%E2%80%A2+SQL;%3E+Environment%3A+Arch+Linux+%2F+CachyOS+%7C+WM%3A+Hyprland+%7C+Shell%3A+fish;%3E+Focus%3A+Object-Oriented+Programming%2C+Data+Structures+%26+Systems" alt="Terminal Typing" />
