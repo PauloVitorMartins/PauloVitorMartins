@@ -13,7 +13,7 @@
 
   <!-- NAVIGATION & SOCIAL DOCK -->
   <p align="center">
-    <a href="https://www.linkedin.com/in/paulo-vitor-martins-silva/" target="_blank">
+    <a href="https://www.linkedin.com/in/paulo-vitor-martins-silva-dev/" target="_blank">
       <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d8ff&labelColor=161b22" alt="LinkedIn" />
     </a>
     &nbsp;
