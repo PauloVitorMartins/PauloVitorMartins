@@ -10,7 +10,6 @@
   </a>
 
   <br/><br/>
-
   <!-- UNIFIED SOCIAL & LIVE METRICS BAR -->
   <p align="center">
     <a href="https://www.linkedin.com/in/paulo-vitor-martins-silva/" target="_blank">
